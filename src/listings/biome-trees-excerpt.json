@@ -1,0 +1,29 @@
+{
+    "modelFile": "BiomeTrees.glb",
+    "attributes": [ "health", "growth" ],
+    "modelScale": 1.0,
+    "types": [ ...
+        {   
+            "name": "Tree_Palm",
+            "baseModel": "Tree_Palm_02",
+            "variants": [
+                {
+                    "name": "Tree_Palm_03",
+                    "health": 0.16,
+                    "growth": 0.16
+                }, {
+                    "name": "Tree_Palm_02",
+                    "health": 0.5,
+                    "growth": 0.83
+                }, ... ]
+        }, ... { 
+            "name": "Tree_Birch",
+            "baseModel": "Tree_Birch_03",
+            "variants": [
+                {
+                    "name": "Tree_Birch_04",
+                    "health": 0,
+                    "growth": 0.83
+                }, ... ]
+        } ]
+}
