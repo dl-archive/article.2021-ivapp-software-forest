@@ -1,6 +1,6 @@
 # Software Forest: A Visualization of Semantic Similarities in Source Code using a Tree Metaphor
 
-Daniel Atzberger, [Tim Cech](https://orcid.org/0000-0001-8688-2419), [Merlin de la Haye](https://orcid.org/0009-0000-9517-4609), Maximilian Söchting, [Willy Scheibel](https://orcid.org/0000-0002-7885-9857), [Daniel Limberger](https://orcid.org/0000-0002-9111-4809), and [Jürgen Döllner](https://orcid.org/0000-0002-8981-8583)
+Daniel Atzberger, [Tim Cech](https://orcid.org/0000-0001-8688-2419), [Merlin de la Haye](https://orcid.org/0009-0000-9517-4609), [Maximilian Söchting](https://orcid.org/0000-0002-8761-2821), [Willy Scheibel](https://orcid.org/0000-0002-7885-9857), [Daniel Limberger](https://orcid.org/0000-0002-9111-4809), and [Jürgen Döllner](https://orcid.org/0000-0002-8981-8583)
 
 *Proceedings of the 16th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (IVAPP '21)*, February 8–10, 2021, online. SciTePress, pp. 112–122.
 
