@@ -4,7 +4,7 @@ Daniel Atzberger, [Tim Cech](https://orcid.org/0000-0001-8688-2419), [Merlin de 
 
 *Proceedings of the 16th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (IVAPP '21)*, February 8–10, 2021, online. SciTePress, pp. 112–122.
 
-DOI: [10.5220/0010267601120122](https://doi.org/10.5220/0010267601120122) · Author's version: Zenodo *(pending)* · [ResearchGate](https://www.researchgate.net/publication/349382985)
+DOI: [10.5220/0010267601120122](https://doi.org/10.5220/0010267601120122) · Author's version: [Zenodo](https://doi.org/10.5281/zenodo.24060500) · [ResearchGate](https://www.researchgate.net/publication/349382985)
 
 > Software visualization techniques provide effective means for program comprehension tasks as they allow developers to interactively explore large code bases.
 > A frequently encountered task during software development is the detection of source code files of similar semantic.
